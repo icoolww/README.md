@@ -1,5 +1,5 @@
 # Williams's Notes
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
 
-[William](https://github.com/icoolww)
+## Summary 
+
+This repository contains all of the notes taken by [William](https://github.com/icoolww) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
